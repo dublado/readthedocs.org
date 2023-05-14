@@ -24,7 +24,7 @@ lxml==3.3.5
 django-countries==3.4.1
 
 # Basic tools
-redis==2.10.3
+redis==4.4.4
 celery==3.1.18
 django-celery==3.1.16
 git+https://github.com/pennersr/django-allauth.git@d869aff9#egg=django-allauth
